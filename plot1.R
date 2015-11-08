@@ -1,4 +1,5 @@
 rm(list=ls())
+
 dir <- "C:/Users/ilja/Desktop/Coursera/Explanatory/ass1"
 setwd(dir)
 
